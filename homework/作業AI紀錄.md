@@ -1,0 +1,1 @@
+[Google試算表－OOP2_AI筆記_何昀晏(A1143339)](https://docs.google.com/spreadsheets/d/1wCkvVNHrVoaTFeYHoD0JzWtTB7sdeWEJjPQ64Tn4by0/edit?usp=sharing)
