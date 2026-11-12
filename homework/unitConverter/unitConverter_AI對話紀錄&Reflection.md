@@ -1,5 +1,5 @@
 ## 對話紀錄
-### Q：使用Java撰寫一個單位轉換器，import javax.swing.* java.awt.* 和 java.awt.event.*。類別繼承 JFrame 並實作 ActionListener（請參考簡報內容），字型用微軟正黑體。版面：視窗大小 480×280，用 BorderLayout；NORTH：換算類型的 cbType（長度／重量／溫度）；CENTER：用 GridLayout(2,1) 排兩列，每列是一個小 JPanel，文字框放中間、單位下拉選單放右邊；SOUTH：「換算」按鈕。額外要求：輸入不是數字時，會跳出提示。
+### Q：（將課程簡報丟給 AI）使用Java撰寫一個單位轉換器，import javax.swing.* java.awt.* 和 java.awt.event.*。類別繼承 JFrame 並實作 ActionListener（請參考簡報內容），字型用微軟正黑體。版面：視窗大小 480×280，用 BorderLayout；NORTH：換算類型的 cbType（長度／重量／溫度）；CENTER：用 GridLayout(2,1) 排兩列，每列是一個小 JPanel，文字框放中間、單位下拉選單放右邊；SOUTH：「換算」按鈕。額外要求：輸入不是數字時，會跳出提示。
 ![alt text](image.png)
 ![alt text](image-1.png)
 ![alt text](image-2.png)
